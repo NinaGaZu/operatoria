@@ -1,0 +1,20 @@
+/* *{
+    background-color:#87bcde;
+} */
+
+.suma{
+    background-color: #805E73;
+    height:300px;
+    width: 300px;
+    text-align: center;
+    margin:auto;
+    color:white;
+}
+.porcentaje{
+    background-color: #4E4D5C;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    color:white;
+}
